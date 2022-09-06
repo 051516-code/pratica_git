@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 esto pertenece al master 
+=======
+ahora estoy modificando el branch version1
+>>>>>>> version1
  
