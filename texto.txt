@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola desde github ahora amdress cavacal
+=======
+hola desde el local ahora estoy haciendo un merge
+>>>>>>> version1
